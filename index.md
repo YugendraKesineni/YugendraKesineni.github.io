@@ -2,7 +2,7 @@
 ### Example Data Science Portfolio
 
 ### Education :
- - [IIIT RK Valley](rguktrkv.ac.in)
+ - [IIIT RK Valley](https://www.rguktrkv.ac.in/)
  - [IIT Madras](onlinedegree.iitm.ac.in)
 
 ### Project 1 : Housing Prices Calculator 
